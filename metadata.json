@@ -1,0 +1,7 @@
+{
+  "name": "Gesture-Controlled Food Kiosk",
+  "description": "A high-end, touchless food ordering system designed for smart kiosks, featuring gesture-based navigation (NEXT, SELECT, STOP) and a modern restaurant aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
